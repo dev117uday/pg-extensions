@@ -1,0 +1,4 @@
+comment = 'URI as datatype by Uday Yadav'
+default_version = 1
+module_pathname = '$libdir/uri'
+relocatable = true
